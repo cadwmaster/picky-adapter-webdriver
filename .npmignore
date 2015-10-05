@@ -1,0 +1,15 @@
+*.log
+*.pid
+*.git
+*.project
+bower.json
+gulpfile.json
+History.md
+Readme.md
+.project
+.DS_Store
+node_modules/
+test/
+temp/
+examples/
+bin/selenium.jar

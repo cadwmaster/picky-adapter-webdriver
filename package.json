@@ -1,0 +1,22 @@
+{
+  "name": "picky-adapter-webdriver",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "author": {
+    "name": "Gabriele Di Stefano",
+    "email": "gabrieleds+node@gmail.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pickyjs/picky-adapter-webdriver.git"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "prepublish": "npm prune"
+  },
+  "dependencies": {
+  },
+  "keywords": []
+}
