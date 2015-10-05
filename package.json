@@ -1,6 +1,6 @@
 {
   "name": "picky-adapter-webdriver",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "WebDriver adapter for Picky's plugins",
   "license": "MIT",
   "author": {
