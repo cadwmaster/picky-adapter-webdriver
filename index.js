@@ -8,16 +8,12 @@
  * Module dependencies
  */
 
-var wd = require('wd');
-
-/*
- * Module variables
- */
-
-/*
- * Module
- */
+var Device = require('./lib/device');
+var plugin = require('./lib/plugin');
 
 /*
  * Module exports
  */
+
+exports.plugin = plugin;
+exports.Device = Device;
