@@ -1,7 +1,7 @@
 {
   "name": "picky-adapter-webdriver",
   "version": "0.1.0",
-  "description": "",
+  "description": "WebDriver adapter for Picky's plugins",
   "license": "MIT",
   "author": {
     "name": "Gabriele Di Stefano",
@@ -17,6 +17,8 @@
     "prepublish": "npm prune"
   },
   "dependencies": {
+    "picky-utils": "0.x.x",
+    "wd": "^0.3.12"
   },
   "keywords": []
 }
